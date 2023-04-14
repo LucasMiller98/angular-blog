@@ -1,0 +1,15 @@
+.container-menu-bar ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  list-style: none;
+}
+
+.container-menu-bar ul li {
+  margin-right: 2rem;
+}
+
+.container-menu-bar ul li a {
+  font-size: 1.5rem;
+}

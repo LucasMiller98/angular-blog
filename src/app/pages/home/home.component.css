@@ -1,0 +1,10 @@
+.articles {
+  margin: 3rem 4rem 0;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+header {
+  margin-top: 1.5rem;
+}

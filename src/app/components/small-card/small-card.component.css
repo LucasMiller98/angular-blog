@@ -1,0 +1,27 @@
+.container {
+  width: 70rem;
+}
+
+.container-small-card-content {
+  display: flex;
+
+  margin-top: 1.5rem;
+}
+
+.separetor {
+  margin-bottom: 1rem;
+}
+
+.container img {
+  width: 20rem;
+  min-width: 20rem;
+  margin: 0 1rem 1rem;
+}
+
+.container h1 {
+  display: inherit;
+  align-items: center;
+  justify-content: center;
+  
+  font-size: 2rem;
+}
