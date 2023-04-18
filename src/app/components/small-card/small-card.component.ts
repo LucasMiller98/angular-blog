@@ -10,5 +10,8 @@ export class SmallCardComponent {
   newDescriction: string = ''
 
   @Input()
+  Id: string = '0'
+  
+  @Input()
   imagePath: string = ''
 }
